@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Earl of Norwich, the Lord Capel. and Sir Charles Lucas, to the Lord Generall Fairfax; and his answer thereunto. Also, a sally forth upon the Lord Fairfax his forces in Fryday last, and propositions for making addresses to the Prince. With a great fight in the couty of Hereford, between Sir Henry Lingen, and Major Harley. Another fight in the North between Lieu. Gen. Cromwel and the Scots, and Major Gen. Lamberts speech at the heat of his army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87972</idno>
+            <idno type="STC">Wing L1519</idno>
+            <idno type="STC">Thomason E460_12</idno>
+            <idno type="STC">ESTC R205112</idno>
+            <idno type="EEBO-CITATION">99864550</idno>
+            <idno type="PROQUEST">99864550</idno>
+            <idno type="VID">162135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162135)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Earl of Norwich, the Lord Capel. and Sir Charles Lucas, to the Lord Generall Fairfax; and his answer thereunto. Also, a sally forth upon the Lord Fairfax his forces in Fryday last, and propositions for making addresses to the Prince. With a great fight in the couty of Hereford, between Sir Henry Lingen, and Major Harley. Another fight in the North between Lieu. Gen. Cromwel and the Scots, and Major Gen. Lamberts speech at the heat of his army.</title>
+                  <author>Norwich, George Goring, Baron, 1583-1663.</author>
+                  <author>Capel of Hadham, Arthur Capel, Baron, 1610?-1649.</author>
+                  <author>Lucas, Charles, Sir, 1613-1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by B.A,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye 21th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162135:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <p>A LETTER FROM
+<list>
+                  <item>The Earl of <hi>NORWICH,</hi>
+                  </item>
+                  <item>The Lord <hi>CAPEL.</hi>
+                  </item>
+                  <item>AND Sir <hi>CHARLES LVCAS,</hi>
+                  </item>
+               </list> TO The Lord Generall <hi>FAIRFAX;</hi> And his An<g ref="char:EOLhyphen"/>ſwer thereunto.</p>
+            <p>ALSO, A ſalley forth upon the Lord <hi>Fairfax</hi> his Forces on Fry<g ref="char:EOLhyphen"/>day laſt, and Propoſitions for making addreſſes to the Prince.</p>
+            <p>WITH A great Fight in the County of <hi>Hereford,</hi> between Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Lingen,</hi> and Major <hi>Harley.</hi> Another Fight in the North between Lieu. Gen. <hi>Cromwel</hi> and the Scots, and Major Gen. <hi>Lamberts</hi> Speech at the head of his Army.</p>
+            <p>Printed at <hi>London</hi> by <hi>B. A. Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162135:2"/>
+            <!-- PDF PAGE 70 -->
+            <pb n="1" facs="tcp:162135:2"/>
+            <!-- PDF PAGE 70 -->
+            <head>NEVVES From the NORTH</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE are here in continuall feares of the Scots Army, not onely from the preſent ſufferings of our Neighbour Counties who have moſt grievouſly taſted of their cruelties, but becauſe we hear they have many friends in parts more remote, and unto them we ſhall only ſay this (for a charitable co<g ref="char:cmbAbbrStroke">̄</g>ſtruction is beſt) that had we not by the relation of our fathers and our preſent and paſtime ſufferings palpably felt that which is like to ring in the eares more and more every day of the whole Kingdome we might have been deluded in the like manner, as others ſpetious pretences &amp; colou<g ref="char:EOLhyphen"/>rable excuſes oftentimes avail much with thoſe which are not acquainted with the manners of the people which may be rendred as one reaſon why thoſe that in<g ref="char:EOLhyphen"/>habit
+<pb n="2" facs="tcp:162135:3"/>
+               <!-- PDF PAGE 71 --> in the South of England have generally been ob<g ref="char:EOLhyphen"/>ſerved to hold a better opinion, of that nation, then thoſe which live in the North (this in the time of peace) now we are come to diſpute it with the ſword. It is not neceſſary for us to remember the ſervice they did heretofore in reducing Newcaſtle or mentioning their Ioſſe at the ſiege at Hereford; for their Army was ſince new modeled and but few that were in thoſe ſervices, are now in England, or under the ſame con<g ref="char:EOLhyphen"/>duct; we thought we underſtood the cauſe of their comming in then, and conceived they would never have broken amity, with the Parliament of England, neither would they if the advice of the Kirk had been taken (and in that the Clergy of that Kingdome de<g ref="char:EOLhyphen"/>ſerve double praiſe for whereas it hath been the Ge<g ref="char:EOLhyphen"/>nerall ſpeech abroad of late yeares, that the Clergy wereas forward if not more, then others in abetting of a War) the Clergie of Scotland are of a contrary judgement, and for that the comming of that Army in<g ref="char:EOLhyphen"/>to this Kingdome was againſt their conſents they have excommunicated moſt of the chief Officers and others that were the occaſion of their comming in by which if they perſiſt, it ſeemes that cenſure is much ſlighted; for in ancient times men were of opinion, if hiſtory may be credited, that if they lay under the cenſure of excommunication they thought their corn would not grow, or if it did, it would not be well inned, and if it come into the barn, ſome cauſualty would fall upon it before it came to be made uſe of, but I ſhall leave this diſcourſe and proceed to that which is more pertinent by way of the intelligence concerning our preſent af<g ref="char:EOLhyphen"/>fairs
+<pb n="3" facs="tcp:162135:3"/>
+               <!-- PDF PAGE 71 -->the conjuncture of Major Generall Cromwell and Lieutenant Generall Cromwell was not without great exclamation, Scarborough is well blockt up and no ſhipping ſuffered to come thither by Sea, and no comming in of any ſupplies that way, which is the more care taken of, for that we hear that the Prince hath a fleet at Sea, and hath attempted to have men at ſome other places of this Kingdome, and this place is the better ſecured againſt that danger, for that the harbour but little above 30 miles from York, and is an inroad into the heart of that County, it was hardly believed that Lieutenant Generall Cromwell would have appeared ſo ſoon in theſe parts, the expediting of his work in Wales was very ſeaſonable, ſome of the Scots confeſſe that their march into this Kingdom was haſtned by intelligence was brought them of the riſing of a party under the Earle of Holland in England, the diſcipating of which hath been very ſmall diſcourage<g ref="char:EOLhyphen"/>ment to them, but now they are here, they play ſwoop ſtake, and what will not make mony, or be for preſent uſe, if valuable, they ſeize for redemption as they have done the ſons and young daughters of divers Country Gentlemen and Yeomen, if men ſay they are for the King hoping to fare the better, they call them Cava<g ref="char:EOLhyphen"/>liers and took all under that notion, if they ſay they have taken the Covenant; they ſay they are againſt the King and muſt take what follows if they ſay they have not taken the Covenant they are uſed a like, which the Countryes adjacent, through which they have not yet marcht are ſo ſenſible of, that they come in a pace to
+<pb n="4" facs="tcp:162135:4"/>
+               <!-- PDF PAGE 72 -->the Major Generall, and Lieutenant Generall Crom<g ref="char:EOLhyphen"/>well and were but monies procured for buying neceſ<g ref="char:EOLhyphen"/>ſaries and food, for bread-corn, is very dear, we hope to prevent the further march of the Scots Southwards, the taking of the Town of Pomfract was a very corſi<g ref="char:EOLhyphen"/>derable ſervice performed by Lieut. Generall Crom<g ref="char:EOLhyphen"/>wels, about forty men were killed and the Enemy dri<g ref="char:EOLhyphen"/>ven into the Caſtle and cloſe begirt there where wee hope a ſmall number of the new raiſed men will keep them, and the old Souldiers keep in a body in the field, the Lieut. Gen. was with Maj. Gen. Lambert at Leeds the 12 inſtant, and ſome of their forces had a Randez<g ref="char:EOLhyphen"/>vouze about three miles off, when the two Brigards met the Major Generall with the Lieut. Gen ſhewed themſelves at the head of each Regiment and the Maj. Gen. as well by way of entertainment as favourable reception made a ſpeech Declaratory to the ſame ef<g ref="char:EOLhyphen"/>fect as alſo by way of incouragement to the ſouldiers which was recented with great applauſe ecchoing a forwardneſſe in the ſervice.</p>
+            <p>The Scots advance not, as if they intended to relieve Colcheſter, neither can they, for the Maj. Gen. hath made good the paſſes about which there hath beene ſome diſpute, when the forces for the Parliament in theſe parts and others expected are drawn into intire body which is hoped to be done in few dayes you are like to heare of further actions til, when I reſt,</p>
+            <closer>
+               <dateline>York <date>Auguſt the 14</date>
+               </dateline> 
+               <signed>Your humble ſervant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:162135:4"/>
+            <!-- PDF PAGE 72 -->
+            <opener>
+               <dateline>Weſtminſter, <date>19 August 1648.</date>
+               </dateline>
+            </opener>
+            <p>Letters from the Leaguer before Colcheſter ſay, that the Earle of Norwich, Lord Capel. Sir Charles Lucas, and the reſt of the Officers in the Towne, ſent a letter to the Lord Fai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fax wherein they deſire 20 dayes leave to addreſſe themſelves to the Prince, and if things goe not ſuitable to their deſires, then &amp;c. This Letter was received by the Generall, and anſwer was returned by a Trumpetter, though not according to the expectation of the beſieged. Hunger bites thoſe in the towne, and their deſires not being granted, if the old proverbe be true, that <hi>hunger breaks ſtone walls,</hi> ſome are of opinion, that men of that deſparate condi<g ref="char:EOLhyphen"/>tion will endeavour to break the line once againe, be<g ref="char:EOLhyphen"/>fore they ſubmit, but more danger is in attempting a quick line (to hold out the proverb) then a dead wall; for the Generall hath fitted al things for a ſtorm if occaſion be, and is every minute ſo well pro<g ref="char:EOLhyphen"/>vided to receive the Enemy if they ſally forth that if the diſtreſſed co<g ref="char:cmbAbbrStroke">̄</g>dition of the beſieged ſhould put them upon any deſperate deſign is more probable they will be acceſſary to haſten their utter deſtruction then that that any of them ſhould deliver themſelves by an eſ<g ref="char:EOLhyphen"/>cape.</p>
+            <p>Letters out of Hereford-ſhire, ſay, that there was a late fight between a party of horſe for the Parliament commanded by Maj. Harley and a party for the King commanded by Sir Henry Linging, in which its ſaid Sir Henry Linging had the better at the firſt but Maj. Harley having a reſerve charged with great gallantry, reſcued ſome priſoners, tooke many other of the ad<g ref="char:EOLhyphen"/>verſe party, and divers Officers; amongſt whom it is
+<pb n="6" facs="tcp:162135:5"/>
+               <!-- PDF PAGE 73 -->ſaid Sir Henry Lingen himſelf is one, but receiving this only upon report I ſhal leave the certainty to fur<g ref="char:EOLhyphen"/>ther relations, Col: Stepkins which have betrayed a Garriſon againſt the Parliament in Staffordſhire be<g ref="char:EOLhyphen"/>took himſelf to a houſe of defence and having g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tten men to his aſſiſtance the Governour of Stafford came againſt them brought a deny Culverin with him began a battery took the houſe by ſtorm, Stepkins finding an entrance made, betook himſelf with ſome few men in<g ref="char:EOLhyphen"/>to a Tower belonging to the ſaid houſe, fought it out to the laſt, and himſelf died in the aſſault.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
